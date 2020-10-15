@@ -11,6 +11,8 @@
 |
 */
 
+// Hello World, Sarangae
+
 Route::get('/', function () {
     return view('welcome');
 });
